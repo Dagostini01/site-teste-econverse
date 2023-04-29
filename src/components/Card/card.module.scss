@@ -1,0 +1,51 @@
+.div {
+    display: flex;
+    width: 100%;
+    align-items: center;
+    justify-content: center;
+    flex-wrap: wrap;
+    margin-top: 20px;
+}
+
+.btn {
+    margin-left: 20px;
+    margin-bottom: 20px;
+    width: 200px;
+    background-color: #f41c64;
+    color: white;
+    cursor: pointer;
+    padding: 5px;
+    font-weight: bold;
+    border-radius: 4px;
+    border: none;
+}
+
+.box {
+    background: #FFFFFF;
+    box-shadow: 0px 3px 19px rgba(0, 0, 0, 0.22);
+    border-radius: 10px;
+}
+.nome{
+    font-weight: bold;
+    font-size: 14px;
+    color: rgb(54, 54, 54);
+    margin-left: 20px;
+}
+
+.preco{
+    font-weight: bold;
+    margin-left: 20px;
+}
+
+.preco2{
+    font-size: 14px;
+    margin-left: 20px;
+}
+
+.frete{
+    color: #f41c64;
+    margin-left: 20px;
+    font-weight: bold;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}

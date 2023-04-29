@@ -1,0 +1,26 @@
+.navigation{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    border-bottom: 1px solid rgb(204, 200, 200);
+    border-top: 1px solid rgb(204, 200, 200);
+    margin-left: 50px;
+    margin-right: 50px;
+    margin-top: 10px;
+    margin-top: 10px;
+}
+
+.box{
+    width: 110px;
+    text-align: center;
+}
+
+.color{
+    color: #f41c64;
+    font-weight: bold;
+}
+
+.father{
+    margin-top: 30px;
+    text-align: center;
+}

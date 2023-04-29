@@ -1,0 +1,25 @@
+.principal {
+    text-align: center;
+    margin-bottom: 140px;
+}
+
+.titulo {
+    color: #F71963;
+}
+
+.txt {
+    font-weight: bold;
+}
+
+.logos {
+    display: flex;
+    justify-content: space-around;
+}
+
+.logo {
+    background: #e4e3e3;
+    box-shadow: 0px 7px 20px rgba(0, 0, 0, 0.13);
+    margin-top: 30px;
+    padding: 20px;
+    border-radius: 10%;
+}

@@ -1,0 +1,50 @@
+.principal {
+    display: flex;
+    height: 400px;
+    justify-content: space-around;
+    margin-left: 30px;
+    margin-top: 90px;
+}
+
+.imageWithText{
+    position: relative;
+    border-radius: 40px;
+    height: 300px;
+    overflow: hidden;
+}
+.txtp{
+    font-size: 45px;
+    margin-top: 1px;
+}
+
+.textOverlay{
+    position: absolute;
+    top: 100px;
+    left: 17px;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    color: #fff;
+    padding: 20px;
+    font-size: 30px;
+    font-weight: bold;
+}
+
+.txt{
+    color: #FFFFFF;
+    font-size: 16px;
+    font-weight: 400;
+}
+
+.btn{
+    margin-bottom: 20px;
+    margin-top: 15px;
+    width: 100px;
+    background-color: #f41c64;
+    color: rgb(255, 255, 255);
+    cursor: pointer;
+    padding: 11px;
+    font-weight: bold;
+    border-radius: 4px;
+    border: none;
+}
